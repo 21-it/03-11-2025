@@ -1,17 +1,9 @@
 # 03-11-2025
-Proyek_UKL/
-├─ README.md
-└─ gambar/
-    ├─ SoalUklMudahNomorSatu.png
-    ├─ SoalUklMudahNomorDua.png
-    ├─ SoalUklSedangNomorSatu.png
-    ├─ SoalUklSedangNomorDua.png
-    ├─ SoalUklSulitNomorSatu.png
-    └─ SoalUklSulitNomorDua.png
 
 ## Kategori Mudah
 1.  
-![Soal Mudah 1](https://raw.githubusercontent.com/username/repo/main/gambar/SoalUklMudahNomorSatu.png)
+![WhatsApp Image 2025-11-04 at 14 19 35_ffb32ca7](https://github.com/user-attachments/assets/6236277d-2716-4baf-8df6-729bff93934d)
+
 
 **Penjelasan:**
 - **Tujuan:** Menghitung total biaya pengiriman berdasarkan berat, jarak, dan volume.  
@@ -24,7 +16,8 @@ Proyek_UKL/
 - **Output:** Volume paket dan total biaya pengiriman.
 
 2.  
-![Soal Mudah 2](https://raw.githubusercontent.com/username/repo/main/gambar/SoalUklMudahNomorDua.png)
+![WhatsApp Image 2025-11-04 at 14 19 35_dad1142c](https://github.com/user-attachments/assets/f51dec1c-e279-42de-8249-9dbe1fbf8bd4)
+
 
 **Penjelasan:**
 - **Tujuan:** Menentukan apakah bilangan ganjil atau genap.  
@@ -36,7 +29,7 @@ Proyek_UKL/
 
 ## Kategori Sedang
 1.  
-![Soal Sedang 1](https://raw.githubusercontent.com/username/repo/main/gambar/SoalUklSedangNomorSatu.png)
+![WhatsApp Image 2025-11-04 at 14 19 36_6b1de395](https://github.com/user-attachments/assets/73117827-449d-4ec1-b58a-8385d2f6f5fc)
 
 **Penjelasan:**
 - **Tujuan:** Menghitung hasil faktorial dari bilangan bulat positif.  
@@ -44,8 +37,8 @@ Proyek_UKL/
 - **Proses:** Kalikan semua bilangan dari 1 sampai n.  
 - **Output:** Nilai faktorial.
 
-2.  
-![Soal Sedang 2](https://raw.githubusercontent.com/username/repo/main/gambar/SoalUklSedangNomorDua.png)
+2. 
+![WhatsApp Image 2025-11-04 at 14 19 36_da4bd491](https://github.com/user-attachments/assets/35d4d14a-2296-4f4d-8df0-2f0519097416)
 
 **Penjelasan:**
 - **Tujuan:** Menghitung volume tabung menggunakan fungsi.  
@@ -57,7 +50,8 @@ Proyek_UKL/
 
 ## Kategori Sulit
 1.  
-![Soal Sulit 1](https://raw.githubusercontent.com/username/repo/main/gambar/SoalUklSulitNomorSatu.png)
+![WhatsApp Image 2025-11-04 at 14 19 36_1c9199f2](https://github.com/user-attachments/assets/ba0b997f-f395-42d2-a72b-2d7b4e9eefd4)
+
 
 **Penjelasan:**
 - **Tujuan:** Menghitung rata-rata nilai ujian sejumlah siswa.  
@@ -66,7 +60,8 @@ Proyek_UKL/
 - **Output:** Nilai rata-rata.
 
 2.  
-![Soal Sulit 2](https://raw.githubusercontent.com/username/repo/main/gambar/SoalUklSulitNomorDua.png)
+![WhatsApp Image 2025-11-04 at 14 19 37_6d037099](https://github.com/user-attachments/assets/a4c77f02-4427-4e73-8c03-6c2502036b33)
+
 
 **Penjelasan:**
 - **Tujuan:** Menjumlahkan dua matriks berukuran sama.  
