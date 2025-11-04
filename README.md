@@ -2,6 +2,7 @@
 Kategori Mudah
 1. 
   ![SS Lokal](C:/Users/Asril/Pictures/SoalUklMudahNomorSatu.png)
+  
   Penjelasan:
 * Tujuan: Menghitung total biaya pengiriman berdasarkan berat, jarak, dan volume.
   
@@ -20,6 +21,7 @@ Total = (biaya/kg × berat) + biaya tambahan
 * Output: Volume paket dan total biaya pengiriman
 2.
 ![SS Lokal](C:/Users/Asril/Pictures/SoalUklMudahNomorDua.png)
+
 Penjelasan:
 * Tujuan: Menentukan apakah bilangan ganjil atau genap
 * Input: Satu bilangan bulat
@@ -29,6 +31,7 @@ Penjelasan:
 Kategori Sedang
 1.
 ![SS Lokal](C:/Users/Asril/Pictures/SoalUklSedangNomorSatu.png)
+
 Penjelasan:
 
 * Tujuan: Menghitung hasil faktorial dari bilangan bulat positif.
@@ -37,6 +40,7 @@ Penjelasan:
 * Output: Nilai faktorial.
 2.
 ![SS Lokal](C:/Users/Asril/Pictures/SoalUklSedaangNomorDua.png)
+
 Penjelasan:
 * Tujuan: Menghitung volume tabung menggunakan fungsi.
 * Input: Jari-jari dan tinggi tabung.
@@ -46,6 +50,7 @@ Penjelasan:
 Kategori Sulit
 1.
 ![SS Lokal](C:/Users/Asril/Pictures/SoalUklSulitNomorSatu.png)
+
 Penjelasan:
 
 * Tujuan: Menghitung rata-rata nilai ujian sejumlah siswa.
@@ -54,6 +59,7 @@ Penjelasan:
 * Output: Nilai rata-rata.
 2.
   ![SS Lokal](C:/Users/Asril/Pictures/SoalUklSulitNomorDua.png)
+  
 Penjelasan:
 
 * Tujuan: Menjumlahkan dua matriks berukuran sama.
